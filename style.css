@@ -1,0 +1,27 @@
+/*There are 3 types of styling
+->Inline.
+->External.
+->Internal.
+*/
+
+
+p{
+    color: aquamarine;
+    background-color: azure;
+    font-size: large;
+    font-style: italic;
+}
+
+#box{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+}
+
+.box1{
+    background-color: greenyellow;
+}
+
+div{
+    background-color: aqua;
+}
